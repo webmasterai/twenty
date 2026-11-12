@@ -80,7 +80,7 @@
     "react-responsive": "^9.0.2",
     "react-router-dom": "^6.30.6",
     "type-fest": "^4.10.1",
-    "zod": "^4.1.11"
+    "zod": "^4.6.6"
   },
   "peerDependencies": {
     "monaco-editor": ">= 0.25.0 < 1",
